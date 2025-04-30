@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Quiron.UploadFile</id>
+    <version>1.0.0</version>
+    <title>Quiron.UploadFile</title>
+    <authors>EliasRMJ</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>quiron-package.png</icon>
+    <readme>README.md</readme>
+    <description>A package used to easily upload files. It also allows them to be easily extended in your project.</description>
+    <releaseNotes>Create new package.</releaseNotes>
+    <copyright>MIT</copyright>
+    <tags>quiron,extensions,file,upload</tags>
+    <repository type="git" url="https://github.com/EliasRMJ/Quiron.UploadFile" commit="d33a7f72395e8872c23de3dfd03db5d58333963f" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.AspNetCore.Http.Features" version="5.0.17" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net9.0/quiron-package.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Meus Projetos GUI\SGS V_W\Quiron.UploadFile\Quiron.UploadFile\bin\Release\net9.0\Quiron.UploadFile.dll" target="lib\net9.0\Quiron.UploadFile.dll" />
+    <file src="C:\Meus Projetos GUI\SGS V_W\Quiron.UploadFile\Quiron.UploadFile\quiron-package.ico" target="content\quiron-package.ico" />
+    <file src="C:\Meus Projetos GUI\SGS V_W\Quiron.UploadFile\Quiron.UploadFile\quiron-package.ico" target="contentFiles\any\net9.0\quiron-package.ico" />
+    <file src="C:\Meus Projetos GUI\SGS V_W\Quiron.UploadFile\Quiron.UploadFile\quiron-package.png" target="\quiron-package.png" />
+    <file src="C:\Meus Projetos GUI\SGS V_W\Quiron.UploadFile\README.md" target="\README.md" />
+  </files>
+</package>

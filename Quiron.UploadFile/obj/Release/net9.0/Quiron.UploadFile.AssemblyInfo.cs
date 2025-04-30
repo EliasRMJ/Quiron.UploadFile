@@ -17,10 +17,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A package used to easily upload files. It also allows them to be easily extended " +
     "in your project.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7462fd4950701ed1d11d291af849a611dff2c6e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d33a7f72395e8872c23de3dfd03db5d58333963f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quiron.UploadFile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quiron.UploadFile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.1")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/EliasRMJ/Quiron.UploadFile")]
 [assembly: System.Resources.NeutralResourcesLanguageAttribute("en")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

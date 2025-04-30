@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Meus Projetos GUI\\SGS V_W\\Quiron.UploadFile\\Quiron.UploadFile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E39D20B7-8078-4BE2-AB6D-F63AE9B4CDCA}|Quiron.UploadFile.csproj|c:\\meus projetos gui\\sgs v_w\\quiron.uploadfile\\quiron.uploadfile\\uploadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E39D20B7-8078-4BE2-AB6D-F63AE9B4CDCA}|Quiron.UploadFile.csproj|solutionrelative:uploadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E39D20B7-8078-4BE2-AB6D-F63AE9B4CDCA}|Quiron.UploadFile.csproj|c:\\meus projetos gui\\sgs v_w\\quiron.uploadfile\\quiron.uploadfile\\quiron.uploadfile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E39D20B7-8078-4BE2-AB6D-F63AE9B4CDCA}|Quiron.UploadFile.csproj|solutionrelative:quiron.uploadfile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E39D20B7-8078-4BE2-AB6D-F63AE9B4CDCA}|Quiron.UploadFile.csproj|c:\\meus projetos gui\\sgs v_w\\quiron.uploadfile\\quiron.uploadfile\\iupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E39D20B7-8078-4BE2-AB6D-F63AE9B4CDCA}|Quiron.UploadFile.csproj|solutionrelative:iupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E39D20B7-8078-4BE2-AB6D-F63AE9B4CDCA}|Quiron.UploadFile.csproj|c:\\meus projetos gui\\sgs v_w\\quiron.uploadfile\\quiron.uploadfile\\quiron.uploadfile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E39D20B7-8078-4BE2-AB6D-F63AE9B4CDCA}|Quiron.UploadFile.csproj|solutionrelative:quiron.uploadfile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUpload.cs",
-              "DocumentMoniker": "C:\\Meus Projetos GUI\\SGS V_W\\Quiron.UploadFile\\Quiron.UploadFile\\IUpload.cs",
-              "RelativeDocumentMoniker": "IUpload.cs",
-              "ToolTip": "C:\\Meus Projetos GUI\\SGS V_W\\Quiron.UploadFile\\Quiron.UploadFile\\IUpload.cs",
-              "RelativeToolTip": "IUpload.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T08:25:57.65Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -76,14 +63,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UploadBase.cs",
-              "DocumentMoniker": "C:\\Meus Projetos GUI\\SGS V_W\\Quiron.UploadFile\\Quiron.UploadFile\\UploadBase.cs",
-              "RelativeDocumentMoniker": "UploadBase.cs",
-              "ToolTip": "C:\\Meus Projetos GUI\\SGS V_W\\Quiron.UploadFile\\Quiron.UploadFile\\UploadBase.cs",
-              "RelativeToolTip": "UploadBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T07:54:13.931Z",
+              "Title": "Quiron.UploadFile",
+              "DocumentMoniker": "C:\\Meus Projetos GUI\\SGS V_W\\Quiron.UploadFile\\Quiron.UploadFile\\Quiron.UploadFile.csproj",
+              "RelativeDocumentMoniker": "Quiron.UploadFile.csproj",
+              "ToolTip": "C:\\Meus Projetos GUI\\SGS V_W\\Quiron.UploadFile\\Quiron.UploadFile\\Quiron.UploadFile.csproj",
+              "RelativeToolTip": "Quiron.UploadFile.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T09:01:05.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quiron.UploadFile",
+              "DocumentMoniker": "C:\\Meus Projetos GUI\\SGS V_W\\Quiron.UploadFile\\Quiron.UploadFile\\Quiron.UploadFile.csproj",
+              "RelativeDocumentMoniker": "Quiron.UploadFile.csproj",
+              "ToolTip": "C:\\Meus Projetos GUI\\SGS V_W\\Quiron.UploadFile\\Quiron.UploadFile\\Quiron.UploadFile.csproj",
+              "RelativeToolTip": "Quiron.UploadFile.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T08:46:07.495Z",
               "EditorCaption": ""
             }
           ]
