@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quiron.UploadFile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34a5178d42a9597749988a88456bc75ea620adae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d1c6ffa45a6afd2b9b33a077c2d6d1079eb1e58")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quiron.UploadFile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quiron.UploadFile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
